@@ -1,0 +1,12 @@
+{
+	"twilio": {
+		"account": "your_twilio_account",
+		"token": "your_twilio_token",
+		"from": "your twilio phone number",
+		"to": "some phone number",
+		"body": "Ringplus has a new updates"
+	},
+	"website": {
+		"frequency_in_sec": 900
+	}
+}
